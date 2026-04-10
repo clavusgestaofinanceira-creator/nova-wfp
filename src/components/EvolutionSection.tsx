@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import { Droplet, Flame, Bug, ShieldCheck, Star } from 'lucide-react';
 

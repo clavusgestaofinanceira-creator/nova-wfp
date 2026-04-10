@@ -1,4 +1,4 @@
-import React from 'react';
+
 import TopNavBar from './components/TopNavBar';
 import HeroSection from './components/HeroSection';
 import SensorialSection from './components/SensorialSection';
